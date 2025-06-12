@@ -13,7 +13,7 @@ This project leverages Power BI to clean, model, and visualize data,  delivering
 - Uncover factors affecting poor performance in specific markets like Nigeria and Southeast Asia.
 - Recommend data-driven strategies for performance and profitabilty.
 
-  ## Key Metrics
+## Key Metrics
   
 -  Total Profit
 -  Total Sales
@@ -24,7 +24,7 @@ This project leverages Power BI to clean, model, and visualize data,  delivering
 -  Total Quantity Sold
 -  Most Valuable Customer
 
-  ## Skills Demonstrated
+## Skills Demonstrated
   
 - Data Cleaning & Transformation
 - Data Modelling
