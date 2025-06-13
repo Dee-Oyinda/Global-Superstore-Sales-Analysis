@@ -74,6 +74,8 @@ Here are some strategic recommendations for the Global Superstore team to enhanc
 - Phones, Copiers, and bookcase generated the highest profits across top-performing countries, Allocate more marketing and inventory budget to these product sub-categories, especially in countries like the US, China and India.
 - Launch a loyalty or premium service program to retain most valuable customers and upsell technology products.
 
+### Data Source: Provided by Digitaley Drive
+
 
 
 
