@@ -45,13 +45,13 @@ This project leverages Power BI to clean, model, and visualize data,  delivering
 - India with a total profit of €48K
 - And China with a total profit of €46K
 
-### Nigeria’s Performance in 2014 Compared to other Arican Countries:
+### Nigeria’s Performance in 2014 Compared to other African Countries:
 
 - Nigeria is among the lowest in Africa with a sum profit of €-23k. Findings on this revealed high shipping costs and high discount rate as root cause
 
 ### Least Profitable Subcategory Product in Southeast Asia: 
 
-- Tables are the least protitable products, especially in Indonesia generating a sum profit of €-10.6k
+- Tables are the least profitable products, especially in Indonesia generating a sum profit of €-10.6k
 
 ### Least Profitable US City: 
 
@@ -70,7 +70,7 @@ This project leverages Power BI to clean, model, and visualize data,  delivering
 Here are some strategic recommendations for the Global Superstore team to enhance performance and profitability across key markets:
 
 - Low-profit countries like Nigeria can partner with local logistics providers to reduce delivery overhead.
-- Consider removing or replacing the table products in the SouthEast Asia regions where profit is low or conduct localized market research to adjust the product fit.
+- Consider removing or replacing the table products in the Southeast Asia regions where profit is low or conduct localized market research to adjust the product fit.
 - Phones, Copiers, and bookcase generated the highest profits across top-performing countries, Allocate more marketing and inventory budget to these product sub-categories, especially in countries like the US, China and India.
 - Launch a loyalty or premium service program to retain most valuable customers and upsell technology products.
 
